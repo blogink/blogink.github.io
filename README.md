@@ -20,7 +20,11 @@
 
 > 友情提醒：若您想收藏本站，请记此引导页，可用域名会及时更新或做跳转，发布于此。至少目前是这样的
 
-[夜雨清欢](http://sakurink.iblogger.org/)
+[夜雨清欢](http://sakurink.iblogger.org/)!
 
-<img width="497" alt="1" src="https://github.com/blogink/blogink.github.io/assets/74526568/359216c7-1739-438e-87eb-ecc05d12d62c">
+
+
+<img width="300" alt="1" src="https://github.com/blogink/blogink.github.io/assets/74526568/35e62624-0256-4295-b055-74538bb1ec6a">
+<img width="300" alt="2" src="https://github.com/blogink/blogink.github.io/assets/74526568/18e2d60a-7636-4e07-ade5-2ab5296aa604">
+<img width="300" alt="3" src="https://github.com/blogink/blogink.github.io/assets/74526568/fd4d6aae-8d7a-404f-a777-11bb1db214e0">
 
