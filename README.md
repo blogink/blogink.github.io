@@ -21,3 +21,6 @@
 > 友情提醒：若您想收藏本站，请记此引导页，可用域名会及时更新或做跳转，发布于此。至少目前是这样的
 
 [夜雨清欢](http://sakurink.iblogger.org/)
+
+<img width="497" alt="1" src="https://github.com/blogink/blogink.github.io/assets/74526568/359216c7-1739-438e-87eb-ecc05d12d62c">
+
