@@ -10,21 +10,21 @@
 
 #### 站长介绍
 
-- 是个学生。就这么多了
+> 是个学生。就这么多了
 
-- 本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP等系统的开关机
+> 本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP等系统的开关机
 
-- 由于本人“零氪”，未来即使投入也不会在自己的网站上投入太多，故主机和域名能白票就白票，所以域名名称、访问速度等均为随缘。
+> 由于本人“零氪”，未来即使投入也不会在自己的网站上投入太多，故主机和域名能白票就白票，所以域名名称、访问速度等均为随缘。
 
 ##### 现可用网址
 
-> 友情提醒：若您想收藏本站，请记此引导页，可用域名会及时更新或做跳转，发布于此。至少目前是这样的
+- 友情提醒：若您想收藏本站，请记此引导页，可用域名会及时更新或做跳转，发布于此。至少目前是这样的
 
-[夜雨清欢](http://sakurink.iblogger.org/)!
+[夜雨清欢](http://sakurink.iblogger.org/)
 
 
 
-<img width="300" alt="1" src="https://github.com/blogink/blogink.github.io/assets/74526568/35e62624-0256-4295-b055-74538bb1ec6a">
-<img width="300" alt="2" src="https://github.com/blogink/blogink.github.io/assets/74526568/18e2d60a-7636-4e07-ade5-2ab5296aa604">
-<img width="300" alt="3" src="https://github.com/blogink/blogink.github.io/assets/74526568/fd4d6aae-8d7a-404f-a777-11bb1db214e0">
+<img height="150" alt="1" src="https://github.com/blogink/blogink.github.io/assets/74526568/35e62624-0256-4295-b055-74538bb1ec6a">
+<img height="150" alt="2" src="https://github.com/blogink/blogink.github.io/assets/74526568/18e2d60a-7636-4e07-ade5-2ab5296aa604">
+<img height="150" alt="3" src="https://github.com/blogink/blogink.github.io/assets/74526568/fd4d6aae-8d7a-404f-a777-11bb1db214e0">
 
