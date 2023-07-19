@@ -30,6 +30,7 @@
 | ----- | --------- | ----------- |
 |   | [ ]( ) |   |
 
+（问就是虚拟主机不会绑域名，否则也不会做这么个引导页~）
 
 <img height="150" alt="1" src="https://github.com/blogink/blogink.github.io/assets/74526568/35e62624-0256-4295-b055-74538bb1ec6a">
 <img height="150" alt="2" src="https://github.com/blogink/blogink.github.io/assets/74526568/18e2d60a-7636-4e07-ade5-2ab5296aa604">
