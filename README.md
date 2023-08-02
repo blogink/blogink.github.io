@@ -23,7 +23,7 @@
 | 名称 | 链接       | 简介&描述 | 
 | ----- | --------- | ----------- |
 | 夜雨〆清欢 | [点击访问](http://sakurink.iblogger.org/) | 个人博客，Bug百出，笔随兴至，随缘更新 |
-| Sakurink API | [点击访问](https://sakurink.eu.org/api/) | 下载页面，后续会增加新功能 |
+| Sakurink API | [点击访问](https://api.sakurink.eu.org/) | 下载页面，后续会增加新功能 |
 
 ##### 友情链接
 
