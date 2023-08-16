@@ -45,4 +45,3 @@
 
 ###### 虽然简陋，但你就说能不能用吧(≧∀≦)ゞ
 
-<iframe class="iframe" src="https://sakurink.eu.org/friends/" style="width: 95%; height: auto;transform-origin: left top; transform: scale(0.535, 0.525)"></iframe>
