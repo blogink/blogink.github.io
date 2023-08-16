@@ -44,3 +44,5 @@
 <img height="150" alt="3" src="https://github.com/blogink/blogink.github.io/assets/74526568/fd4d6aae-8d7a-404f-a777-11bb1db214e0">
 
 ###### 虽然简陋，但你就说能不能用吧(≧∀≦)ゞ
+
+<iframe class="iframe" src="https://sakurink.eu.org/friends/" style="width: 95%; height: auto;transform-origin: left top; transform: scale(0.535, 0.525)"></iframe>
