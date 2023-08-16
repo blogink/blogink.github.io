@@ -48,3 +48,19 @@
 <img height="150" alt="3" src="https://github.com/blogink/blogink.github.io/assets/74526568/fd4d6aae-8d7a-404f-a777-11bb1db214e0">
 
 ###### 虽然简陋，但你就说能不能用吧(≧∀≦)ゞ
+
+<script src="https://giscus.app/client.js"
+        data-repo="blogink/blog-giscus"
+        data-repo-id="R_kgDOKFGKsw"
+        data-category="General"
+        data-category-id="DIC_kwDOKFGKs84CYeg4"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
