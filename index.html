@@ -35,7 +35,7 @@
                 <div class="rin-left-title2">sakurink</div>
                 <div class="rin-left-slogan">「不受律束，笔随兴至」</div>
 
-                <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue rin-btn-left mdui-text-capitalize" href="http://sakurink.rf.gd/" target="_blank" mdui-tooltip="{content: '主站故障，换为临时地址'}"><span class="iconfont iconBlog"></span> Blog</a>
+                <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue rin-btn-left mdui-text-capitalize" href="http://sakurink.iblogger.org/" target="_blank" mdui-tooltip="{content: '主站恢复'}"><span class="iconfont iconBlog"></span> Blog</a>
 
                 <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue rin-btn-left mdui-text-capitalize" href="#friends"><span class="iconfont iconfriend"></span> Friends</a>
 
@@ -203,7 +203,7 @@
                             <p>http://www.baidu.com -> <span id="url1"></span></p>
                             <p>当前引导页 -> <span id="url2"></span></p>
                             <p>博客主站点 -> <span id="url3"></span></p>
-                            <p>博客临时站点 -> <span id="url4"></span></p>
+                            <!--<p>博客临时站点 -> <span id="url4"></span></p>-->
                         </div>
                     </div>
 
@@ -283,17 +283,17 @@
         autourl1="http://www.baidu.com"
         autourl2="https://sakurink.eu.org"
         autourl3="http://sakurink.iblogger.org"
-        autourl4="http://sakurink.rf.gd"
+        //autourl4="http://sakurink.rf.gd"
 
         var url1=document.getElementById("url1");
         var url2=document.getElementById("url2");
         var url3=document.getElementById("url3");
-        var url4=document.getElementById("url4");
+        //var url4=document.getElementById("url4");
 
         url1.innerHTML=" 测试连接:http://www.baidu.com,测试中..... ";
         url2.innerHTML=" 测试连接:https://sakurink.eu.org,测试中..... ";
         url3.innerHTML=" 测试连接:【主站点】,测试中..... ";
-        url4.innerHTML=" 测试连接:【备用站点】,测试中..... ";
+        //url4.innerHTML=" 测试连接:【备用站点】,测试中..... ";
         }
         function auto(url){
             if(tim>20) {
