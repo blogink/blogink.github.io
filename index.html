@@ -194,12 +194,16 @@
                 </div>
 
                 <div class="rin-card-part" id="article">
-                    <div class="rin-card-title2 mdui-typo"><a href="#article">#</a> 文章</div>
+                    <div class="rin-card-title2 mdui-typo"><a href="#site-detection">#</a> 我的站点</div>
 
                     <a>
-                    <div class="mdui-card rin-card rin-card-article" style="margin-bottom: 10px;">
-                        <div class="rin-article-title">【暂无】</div>
-                        <div class="rin-article-content">Feed被我整活改坏力</div>
+                    <div class="mdui-card rin-card rin-card-article" style="margin-bottom: 10px; line-height: 2;">
+                        <div class="rin-article-title">检测</div>
+                        <div class="rin-article-content">
+                            <p>http://www.baidu.com -> <span id="url1"></span></p>
+                            <p>当前引导页 -> <span id="url2"></span></p>
+                            <p>博客主站点 -> <span id="url3"></span></p>
+                        </div>
                     </div>
 
                 </div>
@@ -270,5 +274,37 @@
 </main>
 <script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@latest/mdui/js/mdui.min.js"></script>
 <!--<script src="assets/js/main.js"></script>-->
+<script>
+    function butt(){
+        tim=1;
+        setInterval("tim++",100);
+
+        autourl1="http://www.baidu.com"
+        autourl2="https://sakurink.eu.org"
+        autourl3="http://sakurink.iblogger.org"
+
+        var url1=document.getElementById("url1");
+        var url2=document.getElementById("url2");
+        var url3=document.getElementById("url3");
+
+        url1.innerHTML=" 测试连接:http://www.baidu.com,测试中..... ";
+        url2.innerHTML=" 测试连接:https://sakurink.eu.org,测试中..... ";
+        url3.innerHTML=" 测试连接:http://sakurink.iblogger.org,测试中..... ";
+        }
+        function auto(url){
+            if(tim>20) {
+            document.all(url).innerHTML=" 链接超时，当前无法访问 "
+            }else{
+            document.all(url).innerHTML=" 链接耗时："+tim/10+"秒 "
+            }
+            //b++
+        }
+        function run(){
+            document.write("<img src="+autourl1+"/"+Math.random()+" width=0 height=0 onerror=auto('url1')>")
+            document.write("<img src="+autourl2+"/"+Math.random()+" width=0 height=0 onerror=auto('url2')>")
+        }
+        butt()
+    run()
+</script>
 </body>
 </html>
