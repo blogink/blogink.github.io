@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Blog Contain</title>
+</head>
+<body>
+	<div class="web_notice" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.3);z-index:99999">
+	    <div style="position:fixed;top:50%;left:50%;width:60%;background:#fff;transform:translate(-50%,-50%);border-radius:40px;padding:50px 40px">
+	        <h3 style="font-weight:700;text-align:center;font-size:30px">软件通知</h3>
+	        <div style="font-size:16px;margin-top:26px;line-height:30px;color:#999">网站运行较慢，首次安装启动会进行初始化，请耐心等待连接。</div><div style="font-size:16px;margin-top:26px;line-height:30px;color:#999"><a href="http://ruokeestaticapi.unaux.com/websites/sakurink/ios.html">点此安装客户端</a></div>
+	        <a style="display:block;background:#98a3ff;color:#fff;text-align:center;font-weight:700;font-size:19px;line-height:60px;margin:0 auto;margin-top:45px;border-radius:32px;width:80%" onclick='document.querySelector(".web_notice").remove()'>我知道了</a>
+	    </div>
+	</div>
+	<style>
+    html,body
+	{
+	    margin: 0;
+	    padding: 0;
+	    border: 0;
+	    overflow: hidden;
+	    height: 100%;/*关键*/
+	}
+	iframe {
+	        border: none;
+	    }
+	</style>
+	<iframe id="ifr"
+		height="100%" 
+		width="100%" 
+		src="https://blog.sakurink.eu.org/">
+	</iframe>
+	<!--<script type="text/javascript">
+		var srcs = document.getElementById('ifr').src; alert(srcs);
+	</script>-->
+</body>
+</html>
